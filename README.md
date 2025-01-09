@@ -9,7 +9,7 @@ In **Indus River Racer**, you will race through scenic landscapes along the maje
 
 You can download the project file ZIP and use it.
 
-[GDRIVE Link]([https://indusriverracer.netlify.app/](https://drive.google.com/file/d/19AsE-HvX-SuYnLk_ZwdxeiPB4umYttXN/view?usp=sharing)
+[GDRIVE Link]([https://indusriverracer.netlify.app/](https://drive.google.com/file/d/19AsE-HvX-SuYnLk_ZwdxeiPB4umYttXN/view?usp=sharing])
 
 ## Play Online
 
