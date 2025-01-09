@@ -5,6 +5,12 @@ Welcome to the **Indus River Racer** project! This is a Unity WebGL-based game t
 ## Gameplay Overview
 In **Indus River Racer**, you will race through scenic landscapes along the majestic Indus River, experiencing thrilling moments while navigating through various obstacles.
 
+## Project File Link
+
+You can download the project file ZIP and use it.
+
+[GDRIVE Link]([https://indusriverracer.netlify.app/](https://drive.google.com/file/d/19AsE-HvX-SuYnLk_ZwdxeiPB4umYttXN/view?usp=sharing))
+
 ## Play Online
 
 You can play the game directly online by visiting the following link:
@@ -22,14 +28,9 @@ Click the image to watch the video or use this [link to the video](https://www.y
 
 To play the game locally:
 
-1. Clone or download the repository.
-2. Open the project in Unity.
-3. Build the project for WebGL.
-4. Host the WebGL build on your preferred platform (e.g., GitHub Pages, your server, etc.).
+1. Download the Poject File ZIP
+2. Unzip the file and open it in unity 2018
+3. Build and Game
+4. Specify The folder for building the game
+5. Play the game using exe file in the build folder 
 
-## Installation
-
-You can clone this repository using Git:
-
-```bash
-git clone https://github.com/wasiffalishah/indusriverracer.git
